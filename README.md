@@ -1,4 +1,4 @@
-# simple-django-project
+# Django_Country_city_search
 ## Installation
 
 ### Prerequisites
